@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clone-raeact/static/css/main.fb01fccb.chunk.css",
+    "main.js": "/clone-raeact/static/js/main.6c2d2fb4.chunk.js",
+    "main.js.map": "/clone-raeact/static/js/main.6c2d2fb4.chunk.js.map",
+    "runtime-main.js": "/clone-raeact/static/js/runtime-main.ab1e9277.js",
+    "runtime-main.js.map": "/clone-raeact/static/js/runtime-main.ab1e9277.js.map",
+    "static/js/2.4c1e4794.chunk.js": "/clone-raeact/static/js/2.4c1e4794.chunk.js",
+    "static/js/2.4c1e4794.chunk.js.map": "/clone-raeact/static/js/2.4c1e4794.chunk.js.map",
+    "index.html": "/clone-raeact/index.html",
+    "precache-manifest.3292d38939c7fef878f172a49d08d06b.js": "/clone-raeact/precache-manifest.3292d38939c7fef878f172a49d08d06b.js",
+    "service-worker.js": "/clone-raeact/service-worker.js",
+    "static/css/main.fb01fccb.chunk.css.map": "/clone-raeact/static/css/main.fb01fccb.chunk.css.map",
+    "static/js/2.4c1e4794.chunk.js.LICENSE.txt": "/clone-raeact/static/js/2.4c1e4794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab1e9277.js",
+    "static/js/2.4c1e4794.chunk.js",
+    "static/css/main.fb01fccb.chunk.css",
+    "static/js/main.6c2d2fb4.chunk.js"
+  ]
+}
